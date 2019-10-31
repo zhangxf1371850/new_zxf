@@ -5,3 +5,4 @@ Git is free software.
 我又回来了！
 
 哈哈哈
+Creating a new branch is quick.
